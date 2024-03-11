@@ -26,11 +26,12 @@ Two .csv files containing more than 3000 rows of symptoms and diseases were used
 
 The project consists of the following files:
 
-- `AICare_MedicalChatbot.ipynb`: Notebook containing dataset cleaning and model training.
-- `AICare_FlaskInterface.ipynb`: Notebook for loading the `Model_USE.h5` and running the Flask app.
-- `Model_USE.h5`: Trained machine learning model.
-- `Chats.html`: HTML file for the chat interface.
-- `label_mapping.json`: JSON file containing the diseases labels and their numerical code
+- `AICare_MedicalChatbot.ipynb`: Notebook containing dataset cleaning and model training. [Download from Google Drive](https://drive.google.com/file/d/1Y4Ki3tZjckF7MBO8qWoYQWiwzhrkM8ld/view?usp=sharing) (No need to be run again)
+- `AICare_FlaskInterface.ipynb`: Notebook for loading the `Model_USE.h5` and running the Flask app. [Download from Google Drive](https://drive.google.com/file/d/1DbryDoV-AP4d0gv42_mZ03FsnzhcFRCs/view?usp=sharing) (Make sure to change the file paths of the label_mapping.json, chats.html, and model_USE.h5)
+- `Model_USE.h5`: Trained machine learning model. The model is almost ~3GB so I didn't upload it to GitHub. It can be cloned from my Google Drive to yours through the following [link](https://drive.google.com/file/d/1Xc8BsonxcuR1l1001XFJTOFo-v42wQP3/view?usp=drive_link). Just make a copy of the model_USE.h5 file to your Google Drive.
+- `label_mapping.json`: JSON file containing label mapping. [Download from Google Drive](https://drive.google.com/file/d/1C3u1qMGdJQwckcZTwCRO3rQXnfz-DoqV/view?usp=sharing)
+- `chats.html`: HTML file for the chat interface. [Download from Google Drive](https://drive.google.com/file/d/1eqTItxy-WGx-GjO5NN-RUQUnQmQnU6Af/view?usp=sharing)
+
 ## How to Run?
 
 1. Open `AICare_FlaskInterface.ipynb`.
