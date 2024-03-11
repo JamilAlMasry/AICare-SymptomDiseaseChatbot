@@ -30,7 +30,7 @@ The project consists of the following files:
 - `AICare_FlaskInterface.ipynb`: Notebook for loading the `Model_USE.h5` and running the Flask app.
 - `Model_USE.h5`: Trained machine learning model.
 - `Chats.html`: HTML file for the chat interface.
-
+- `label_mapping.json`: JSON file containing the diseases labels and their numerical code
 ## How to Run?
 
 1. Open `AICare_FlaskInterface.ipynb`.
