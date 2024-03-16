@@ -32,7 +32,7 @@ The project consists of the following files:
 - `label_mapping.json`: JSON file containing label mapping. [Download from Google Drive](https://drive.google.com/file/d/1C3u1qMGdJQwckcZTwCRO3rQXnfz-DoqV/view?usp=sharing)
 - `chats.html`: HTML file for the chat interface. [Download from Google Drive](https://drive.google.com/file/d/1eqTItxy-WGx-GjO5NN-RUQUnQmQnU6Af/view?usp=sharing)
 - `Symptom2Disease.csv`: First part of the dataset. [Download from Google Drive](https://drive.google.com/file/d/1-7Nrpceeiz-AS3rU3HGruXCen6QBlqOf/view?usp=drive_link)
-- - `updatedsymptom-disease-train-dataset.csv`: Second part of the dataset. [Download from Google Drive](https://drive.google.com/file/d/13X4K84nBCzyYA47U4PEAWtYXueoXThzS/view?usp=drive_link)
+-  `updatedsymptom-disease-train-dataset.csv`: Second part of the dataset. [Download from Google Drive](https://drive.google.com/file/d/13X4K84nBCzyYA47U4PEAWtYXueoXThzS/view?usp=drive_link)
 ## How to Run?
 
 1. Open `AICare_FlaskInterface.ipynb`.
