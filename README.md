@@ -1,5 +1,5 @@
 # AICare-SymptomDiseaseChatbot
-
+![My App Screenshot](./images/AICare-2.png)
 ## The Problem
 
 Many individuals experience symptoms of various illnesses but may not have immediate access to medical professionals for diagnosis. This lack of accessibility can lead to uncertainty, anxiety, and delayed treatment, potentially exacerbating health issues.
